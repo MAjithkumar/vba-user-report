@@ -1,0 +1,13 @@
+# Visual Basic / VBA Files
+*.xlsm linguist-language=VB.Net
+*.xlam linguist-language=VB.Net
+*.xls linguist-language=VB.Net
+*.bas linguist-language=VB.Net
+*.cls linguist-language=VB.Net
+*.frm linguist-language=VB.Net
+*.vb linguist-language=VB.Net
+
+# Binary files
+*.xlsm binary
+*.xlam binary
+*.xls binary
